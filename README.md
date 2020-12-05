@@ -18,5 +18,5 @@ Please refer to the JS file comments to customize it to your liking.
 3. Navigate to 'Provider packages'.
 4. Click 'Kosmos' Under 'Install'.
 5. Visit the website as per instruction, enter code displayed and click next.
-6. Enter this url as package url: https://raw.githubusercontent.com/ImBigmOOse/watch-now-starter/main/package.js
+6. Enter this url as package url: https://raw.githubusercontent.com/synclerd/watch-now-starter/main/package.js
 7. Return to app and click ‘Done’.
