@@ -24,10 +24,46 @@
             service: 'Netflix',
             androidPackageNames: ['com.netflix.mediaclient', 'com.netflix.ninja']
         },
+        /*{
+            service: 'Disney+',
+            androidPackageNames: ['com.disney.disneyplus']
+        },
+        {
+            service: 'Hulu',
+            androidPackageNames: ['com.hulu.plus', 'com.hulu.livingroomplus']
+        },
+        {
+            service: 'Crackle',
+            androidPackageNames: ['com.gotv.crackle.handset', 'com.crackle.androidtv', 'com.crackle.androidtv.svod']
+        },
+        {
+            service: 'Tubi',
+            androidPackageNames: ['com.tubitv']
+        },
+        {
+            service: 'FXNow',
+            androidPackageNames: ['com.fxnetworks.fxnow']
+        },
+        {
+            service: 'Google TV',
+            androidPackageNames: ['com.google.android.videos']
+        },*/
         {
             service: 'Prime Video',
             androidPackageNames: ['com.amazon.avod.thirdpartyclient', 'com.amazon.amazonvideo.livingroom', 'com.amazon.amazonvideo.livingroom.firetv']
         },
+        /*{
+            service: 'HBO GO',
+            androidPackageNames: ['com.hbo.go']
+        },
+        {
+            service: 'HBO MAX',
+            androidPackageNames: ['com.hbo.hbonow']
+        },
+        {
+            service: 'VUDU',
+            androidPackageNames: ['air.com.vudu.air.DownloaderTablet', 'com.nvidia.vuduapp']
+        },*/
         {
             service: 'Youtube',
             androidPackageNames: ['com.google.android.youtube', 'com.google.android.youtube.tv', 'com.amazon.firetv.youtube', 'com.google.android.youtube.googletv', 'com.google.android.youtube.googletv']
